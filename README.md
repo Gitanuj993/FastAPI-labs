@@ -61,6 +61,18 @@ Frontend → FastAPI → Database / External API
 └────────────────────────────┘
 ```
 
+### Is the FastAPI is the Only API Framework ?
+
+- There are many API Web Frameworks
+Example : Programming Language → API Framework
+```txt
+Python → FastAPI, Django, Flask
+JavaScript → Express, NestJS
+Java → Spring Boot
+Go → Gin, Fiber
+```
+
+- The browser doesn't care what language the backend uses.
 
 
 
